@@ -16,7 +16,7 @@
 
 
 
-- :telescope: I'm currently studying AI in MUST University 💻;
+- :telescope: I'm currently studying AI and CS in MUST University 💻;
 - :hourglass_flowing_sand: Learning ML ,DL and Data Science;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - :man_technologist: (Computer Science and Engineering); 
