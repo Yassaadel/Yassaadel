@@ -1,18 +1,14 @@
-## Hi 👋, I'm [Yassa !](https://Yassaadel.github.io) 
+## Hi 👋, I'm [Yassa Adel!](https://Yassaadel.github.io) 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="Yassaadel" /> </p>
 
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
- <a href="https://dev.to/Yassaadel">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Yassa Dev" width="26"/>
-</a>
 
-<a href="www.linkedin.com/in/yassa-adel-45b287232">
-  <img align="left" alt="Yassa LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
+
 <a href="https://www.instagram.com/_yassa_adel/">
-  <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Yassa Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
@@ -21,7 +17,7 @@
 
 
 - :telescope: I'm currently studying AI in MUST University 💻;
-- :hourglass_flowing_sand: Learning ML and DL;
+- :hourglass_flowing_sand: Learning ML ,DL and Data Science;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - :man_technologist: (Computer Science and Engineering); 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
