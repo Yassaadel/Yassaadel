@@ -8,10 +8,10 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Yassa Dev" width="26"/>
 </a>
 
-<a href="https://www.linkedin.com/in/yassa-adel/">
+<a href="www.linkedin.com/in/yassa-adel-45b287232">
   <img align="left" alt="Yassa LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/ankit.warbhe/">
+<a href="https://www.instagram.com/_yassa_adel/">
   <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
