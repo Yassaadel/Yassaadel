@@ -22,7 +22,7 @@
 - :man_technologist: (Computer Science and Engineering); 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
 - 📫 How to reach me: Yassaadel1122@gmail.com;
-![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue)
+![](https://img.shields.io/badge/Machine%20Learning-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Core%20Java-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/SQL-%7C-orange) ![](https://img.shields.io/badge/Cloud%20Developer-%7C-blue) 
 
 <br><br>
 <a href="https://github.com/Yassaadel">
